@@ -4,9 +4,9 @@
 - i have used [W3School](https://www.w3schools.com/css/default.asp)
 - Some of StackOverFlow Geeks 
 ## Technology
-1.HTML5
-2.CSS3
-3.JavaScript-ES6
+1. HTML5
+2. CSS3
+3. JavaScript-ES6
 ## Functions 
 - linked Buttons to every section 
 - side-bar Button to collapse and open
